@@ -2,13 +2,13 @@
 An automated pipeline that scrapes live LinkedIn job postings, parses a local PDF resume, and uses Google Gemini AI to rank the best career matches based on your specific professional background.
 
 ## 🛠️ Features
-* **Multi-Profile Discovery: Search for different roles (e.g., Data Science, IT Business) across multiple locations simultaneously.
+* **Multi-Profile Discovery**: Search for different roles (e.g., Data Science, IT Business) across multiple locations simultaneously.
 
-* **Smart Filtering: Automatically excludes jobs containing specific keywords (e.g., "Senior," "Manager") to keep results relevant.
+* **Smart Filtering**: Automatically excludes jobs containing specific keywords (e.g., "Senior," "Manager") to keep results relevant.
 
-* **PDF Parsing: Extracts raw text from complex PDF resumes using pdf-parse.
+* **PDF Parsing**: Extracts raw text from complex PDF resumes using pdf-parse.
 
-* **AI Ranking: Integration with Chatgpt #chat version# Flash to provide a "Match Score" and custom reasoning for every job found.
+* **AI Ranking**: Integration with Chatgpt #chat version# Flash to provide a "Match Score" and custom reasoning for every job found.
 
 ---
 
