@@ -1,0 +1,18 @@
+{
+    "search_profiles": [
+        {
+            "name": "Data_Science",
+            "keywords": ["Data Analyst", "Data Scientist", "Machine Learning Intern"],
+            "locations": ["Montreal", "Ottawa", "Remote"],
+            "max_days": 5
+        },
+        {
+            "name": "IT_Business",
+            "keywords": ["IT Business Analyst", "Project Coordinator", "IT Operations"],
+            "locations": ["Laval", "Montreal"],
+            "max_days": 3
+        }
+    ],
+    "exclusions": ["Senior", "Lead", "Director", "Principal"],
+    "output_format": "latex"
+}
